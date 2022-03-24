@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mercado QI</string>
+    <string name="product_name">Nome do Produto</string>
+    <string name="product_price">Preço</string>
+    <string name="product_quantity">Quantidade</string>
+    <string name="product_btn_add">Cadastrar</string>
+    <string name="product_btn_update">Atualizar</string>
+    <string name="product_btn_delete">Deletar</string>
+    <string name="product_title">Produto</string>
+    <string name="product_insert_sucessfully">Produto adicionado</string>
+    <string name="product_updated_sucessfully">Produto atualizado</string>
+    <string name="product_error_to_insert">Ocorreu um erro ao adicionar o produto</string>
+    <string name="product_error_to_delete">Ocorreu um erro ao deletar o produto</string>
+    <string name="product_error_to_update">Ocorreu um erro ao atualizar o produto</string>
+    <string name="product_deleted_sucessfully">Produto deletado</string>
+    <string name="label_list_of_products">Lista de Produtos</string>
+</resources>
